@@ -9,6 +9,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  actions: write
 
 concurrency:
   group: oni-update
@@ -49,4 +50,20 @@ jobs:
         with:
           path: docs
 
-      - uses: actions/deploy-pages@v4
+      - name: Deploy
+        id: deploy
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Deploy (retry)
+        if: steps.deploy.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Schedule next run (about 5 minutes later)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 240
+          gh workflow run update.yml --repo "${{ github.repository }}" --ref main
