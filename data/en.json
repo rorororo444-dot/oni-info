@@ -12836,11 +12836,11 @@
 "atts": [],
 "embeds": [
 {
-"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1574701493393555546/Screenshot_20261124_101535_KOA_Frost__Flame2.jpg?ex=6b069a8c&is=6b05490c&hm=339478ea91bedef09a8e8911a4b20a1d8d71d8d57264ef3e11b3bb990803ff57&",
+"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1574701493393555546/Screenshot_20261124_101535_KOA_Frost__Flame2.jpg?ex=6b07434c&is=6b05f1cc&hm=e06aa54c47c0f9298bc715ea5bbafb882bee2753b6fd9f60047940c7363ed4a4&",
 "url": "https://cdn.discordapp.com/attachments/1315597739031003236/1574701493393555546/Screenshot_20261124_101535_KOA_Frost__Flame2.jpg?ex=6b069a8c&is=6b05490c&hm=339478ea91bedef09a8e8911a4b20a1d8d71d8d57264ef3e11b3bb990803ff57&"
 },
 {
-"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1574701493909590067/Screenshot_20261124_101527_KOA_Frost__Flame2.jpg?ex=6b069a8c&is=6b05490c&hm=146fec1589fc1b617e1cec2f952e6cc431ff1de7be9e9c06f89629a8af25c19d&",
+"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1574701493909590067/Screenshot_20261124_101527_KOA_Frost__Flame2.jpg?ex=6b07434c&is=6b05f1cc&hm=e0f72fcba9354138b6a3c372213639bb5ad8732aa3bd3f31f959a163f24a1717&",
 "url": "https://cdn.discordapp.com/attachments/1315597739031003236/1574701493909590067/Screenshot_20261124_101527_KOA_Frost__Flame2.jpg?ex=6b069a8c&is=6b05490c&hm=146fec1589fc1b617e1cec2f952e6cc431ff1de7be9e9c06f89629a8af25c19d&"
 }
 ],
@@ -12892,6 +12892,16 @@
 "ts": "2026-11-24T11:39:32.746000+00:00",
 "edited": false,
 "content": "Not yet. The official migration hasn’t started yet. You can’t buy tickets either.",
+"atts": [],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1574895362488017100",
+"name": "roron_at_bedrock",
+"ts": "2026-11-24T21:11:54.558000+00:00",
+"edited": false,
+"content": "We’ll begin migrating tomorrow, 11/25. I’ll announce the details later.",
 "atts": [],
 "embeds": [],
 "stickers": []
