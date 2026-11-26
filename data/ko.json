@@ -493,5 +493,53 @@
 "atts": [],
 "embeds": [],
 "stickers": []
+},
+{
+"id": "1575415387506475050",
+"name": "iTranslator",
+"ts": "2026-11-26T07:38:18.184000+00:00",
+"edited": false,
+"content": "",
+"atts": [],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575415535913537627",
+"name": "Роман280790",
+"ts": "2026-11-26T07:38:53.567000+00:00",
+"edited": false,
+"content": "",
+"atts": [
+{
+"id": "1575415535640903680",
+"filename": "Screenshot_2026-11-26-12-37-09-090_com.funplus.kingofavalon.jpg",
+"url": "https://cdn.discordapp.com/attachments/1574253565260861440/1575415535640903680/Screenshot_2026-11-26-12-37-09-090_com.funplus.kingofavalon.jpg?ex=6b09338d&is=6b07e20d&hm=edf7fd48c8005aca70de95645dd30cb8f4ad6e7d57a3513dcd833ffc3e1094e9&",
+"ctype": "image/jpeg",
+"size": 123667
+}
+],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575415567832191028",
+"name": "Роман280790",
+"ts": "2026-11-26T07:39:01.177000+00:00",
+"edited": false,
+"content": "У меня все готово",
+"atts": [],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575415617652129794",
+"name": "Роман280790",
+"ts": "2026-11-26T07:39:13.055000+00:00",
+"edited": false,
+"content": "Когда прыгаем ?",
+"atts": [],
+"embeds": [],
+"stickers": []
 }
 ]
