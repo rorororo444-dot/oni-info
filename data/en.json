@@ -13264,5 +13264,42 @@
 "atts": [],
 "embeds": [],
 "stickers": []
+},
+{
+"id": "1575381849100783706",
+"name": "RORON.k5125.ONI",
+"ts": "2026-11-26T05:25:02.005000+00:00",
+"edited": false,
+"content": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381845506269275/IMG_5073.png?ex=6b09142d&is=6b07c2ad&hm=38a5657e30bb5a47514f37fd572cba1e48279087cdd313f124cc89a617c1eb77&\nhttps://cdn.discordapp.com/attachments/1315597739031003236/1575381846005653504/IMG_5074.png?ex=6b09142d&is=6b07c2ad&hm=7a092485a6238c2e483f2e2fc842f6ab880220197fef60229a9973e20b9afcd8&\nhttps://cdn.discordapp.com/attachments/1315597739031003236/1575381846521544704/IMG_5075.png?ex=6b09142d&is=6b07c2ad&hm=2e21102a68460bdb4cbe7c325c81217b3215bb24ff13dccf300f75ebb518013a&\nhttps://cdn.discordapp.com/attachments/1315597739031003236/1575381846986985552/IMG_5076.png?ex=6b09142d&is=6b07c2ad&hm=4875777b19e3ab1e87e217c96dcb2e94345809ba9d6cddf5d88904ddc44d8cd3&",
+"atts": [],
+"embeds": [
+{
+"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381845506269275/IMG_5073.png?ex=6b09142d&is=6b07c2ad&hm=38a5657e30bb5a47514f37fd572cba1e48279087cdd313f124cc89a617c1eb77&",
+"url": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381845506269275/IMG_5073.png?ex=6b09142d&is=6b07c2ad&hm=38a5657e30bb5a47514f37fd572cba1e48279087cdd313f124cc89a617c1eb77&"
+},
+{
+"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381846005653504/IMG_5074.png?ex=6b09142d&is=6b07c2ad&hm=7a092485a6238c2e483f2e2fc842f6ab880220197fef60229a9973e20b9afcd8&",
+"url": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381846005653504/IMG_5074.png?ex=6b09142d&is=6b07c2ad&hm=7a092485a6238c2e483f2e2fc842f6ab880220197fef60229a9973e20b9afcd8&"
+},
+{
+"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381846521544704/IMG_5075.png?ex=6b09142d&is=6b07c2ad&hm=2e21102a68460bdb4cbe7c325c81217b3215bb24ff13dccf300f75ebb518013a&",
+"url": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381846521544704/IMG_5075.png?ex=6b09142d&is=6b07c2ad&hm=2e21102a68460bdb4cbe7c325c81217b3215bb24ff13dccf300f75ebb518013a&"
+},
+{
+"image": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381846986985552/IMG_5076.png?ex=6b09142d&is=6b07c2ad&hm=4875777b19e3ab1e87e217c96dcb2e94345809ba9d6cddf5d88904ddc44d8cd3&",
+"url": "https://cdn.discordapp.com/attachments/1315597739031003236/1575381846986985552/IMG_5076.png?ex=6b09142d&is=6b07c2ad&hm=4875777b19e3ab1e87e217c96dcb2e94345809ba9d6cddf5d88904ddc44d8cd3&"
+}
+],
+"stickers": []
+},
+{
+"id": "1575381949651091457",
+"name": "RORON.k5125.ONI",
+"ts": "2026-11-26T05:25:25.978000+00:00",
+"edited": false,
+"content": "If you have any problems, contact roron.",
+"atts": [],
+"embeds": [],
+"stickers": []
 }
 ]
