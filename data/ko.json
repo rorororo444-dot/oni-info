@@ -646,5 +646,99 @@
 "atts": [],
 "embeds": [],
 "stickers": []
+},
+{
+"id": "1575509962300592231",
+"name": "iTranslator",
+"ts": "2026-11-26T13:54:06.572000+00:00",
+"edited": false,
+"content": "",
+"atts": [],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575510023340032144",
+"name": "iTranslator",
+"ts": "2026-11-26T13:54:21.125000+00:00",
+"edited": false,
+"content": "",
+"atts": [],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575510122418016428",
+"name": "Роман280790",
+"ts": "2026-11-26T13:54:44.747000+00:00",
+"edited": false,
+"content": "Я пробовал не получится",
+"atts": [],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575510155272134806",
+"name": "Роман280790",
+"ts": "2026-11-26T13:54:52.580000+00:00",
+"edited": false,
+"content": "",
+"atts": [
+{
+"id": "1575510154936328312",
+"filename": "Screenshot_2026-11-26-18-52-20-711_com.funplus.kingofavalon.jpg",
+"url": "https://cdn.discordapp.com/attachments/1574253565260861440/1575510154936328312/Screenshot_2026-11-26-18-52-20-711_com.funplus.kingofavalon.jpg?ex=6b098bac&is=6b083a2c&hm=e28c1d121a54c141765b0eabee3ab297d63cc43e8aa05f0c3010b20b2833f2be&",
+"ctype": "image/jpeg",
+"size": 77837
+}
+],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575510171935973507",
+"name": "Роман280790",
+"ts": "2026-11-26T13:54:56.553000+00:00",
+"edited": false,
+"content": "",
+"atts": [
+{
+"id": "1575510171411677297",
+"filename": "Screenshot_2026-11-26-18-52-11-287_com.funplus.kingofavalon.jpg",
+"url": "https://cdn.discordapp.com/attachments/1574253565260861440/1575510171411677297/Screenshot_2026-11-26-18-52-11-287_com.funplus.kingofavalon.jpg?ex=6b098bb0&is=6b083a30&hm=7ec5258a73089d02f83ff4f5fff40546ba48df17d1cc7936faec47e514f1ac6d&",
+"ctype": "image/jpeg",
+"size": 59661
+}
+],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575510182572589076",
+"name": "Роман280790",
+"ts": "2026-11-26T13:54:59.089000+00:00",
+"edited": false,
+"content": "",
+"atts": [
+{
+"id": "1575510182275055616",
+"filename": "Screenshot_2026-11-26-12-37-09-090_com.funplus.kingofavalon.jpg",
+"url": "https://cdn.discordapp.com/attachments/1574253565260861440/1575510182275055616/Screenshot_2026-11-26-12-37-09-090_com.funplus.kingofavalon.jpg?ex=6b098bb3&is=6b083a33&hm=6950dd52e04f6ba8e4a05b16efca0758c4168f5a38bc5de6a7d21a42196b960c&",
+"ctype": "image/jpeg",
+"size": 123667
+}
+],
+"embeds": [],
+"stickers": []
+},
+{
+"id": "1575510261496946739",
+"name": "Роман280790",
+"ts": "2026-11-26T13:55:17.906000+00:00",
+"edited": false,
+"content": "Что то идёт не так",
+"atts": [],
+"embeds": [],
+"stickers": []
 }
 ]
